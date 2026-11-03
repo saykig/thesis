@@ -21,3 +21,9 @@ proposed questions and leaves the final case open.
 The full mathematical discovery/proof trail is outside the scope of this
 application repository. Evidence collection and hypothesis design can proceed
 before a mathematical dependency is selected.
+
+## Research development
+
+[Research curiosity ledger](paper/RESEARCH_LEDGER.md) records dated questions,
+candidate mechanisms, rival explanations, reading leads and scope decisions.
+It preserves exploratory directions without adopting a final question or case.

@@ -42,3 +42,14 @@ needed to understand the method; keep the full general discovery trail elsewhere
   cooperation; a stable arrangement is not automatically desirable.
 - The degree requirement concerns this paper's European focus, not the ceiling of
   the broader mathematical research programme.
+
+## Research curiosity ledger
+
+Maintain `docs/paper/RESEARCH_LEDGER.md` after substantive research-development
+discussions. Record new curiosities with stable IDs and dates; refine existing
+entries instead of duplicating them. Distinguish the author's question, proposed
+mechanism, evidence status, rival explanation and next discriminating step.
+Preserve parked directions and reasons for material changes without presenting
+brainstorming as findings. Link sources for factual claims. Keep entries concise;
+commit and push coherent updates. A ledger entry does not itself change the final
+research question, case selection or mathematical dependencies.
