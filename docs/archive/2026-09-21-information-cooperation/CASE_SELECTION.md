@@ -1,19 +1,19 @@
 # European case selection: evidence before model choice
 
-**Status as of 5 November 2026:** this is a dated comparison of research
-feasibility, not a current topic or case selection. The repository is in a
-[curiosity and topic-selection stage](../../README.md#interests-so-far).
+**Status as of 5 November 2026:** this is part of an
+[archived research experiment](README.md). Its recommendation assessed the
+feasibility of cases for that experiment's question, not the thesis as a whole.
 
 21 September 2026. Comparative empirical review; supersedes the initial scoping judgments while preserving the three starting candidates. **Recommendation: prioritise DRI/X researcher data access under the EU Digital Services Act for a bounded MA process study.** This is a research recommendation, not a finding that regulation produced compliance or that a strategic motive has been proved. The author's final case adoption remains open.
 
 ## What changed through evidence collection
 
-The initial note had mainly programme and rule descriptions. This pass assembled [30 sources](../evidence/SOURCES.md), including judicial records, legislation, an actual provider contact interface, diplomatic commitments, user-access reporting and independent journalism. All maps distinguish **FACT / SOURCE CLAIM / INFERENCE / HYPOTHESIS / UNKNOWN** under the [methods protocol](../methods/EMPIRICAL_INFERENCE.md).
+The initial note had mainly programme and rule descriptions. This pass assembled [30 sources](evidence/SOURCES.md), including judicial records, legislation, an actual provider contact interface, diplomatic commitments, user-access reporting and independent journalism. All maps distinguish **FACT / SOURCE CLAIM / INFERENCE / HYPOTHESIS / UNKNOWN** under the [methods protocol](methods/EMPIRICAL_INFERENCE.md).
 
-- [Ukraine](../evidence/UKRAINE.md): narrowed from DELTA/interoperability to the March 2025 GEGD account suspension and restoration. It reveals a specific government-controlled information channel during coalition bargaining. The simultaneous aid pause prevents isolating intelligence pressure. DELTA exercise evidence remains a separate, weaker lead.
-- [EU AI governance](../evidence/EU_AI.md): identified an actual documentation inquiry channel and independent public-transparency research. Neither supplies an observed downstream request/refusal/decision chain. Code opposition is not proof of noncompliance.
-- [Nordic / High North](../evidence/NORDIC_HIGH_NORTH.md): separated Arctic trials, Nordic Warden warning sharing and the Eagle S ship/shore information dispute. The August 2026 appellate decision strengthens the public institutional record, but its treatment of allegations does not establish intentional deception, Russian direction or a warning-system effect.
-- [Additional EU case: DRI/X](../evidence/EU_DSA_RESEARCH_ACCESS.md): found repeated data-access litigation, an adverse urgency ruling, later relief and a participant report of an access grant. This provides the best current opportunity to distinguish legal entitlement, practical access and procedural timing.
+- [Ukraine](evidence/UKRAINE.md): narrowed from DELTA/interoperability to the March 2025 GEGD account suspension and restoration. It reveals a specific government-controlled information channel during coalition bargaining. The simultaneous aid pause prevents isolating intelligence pressure. DELTA exercise evidence remains a separate, weaker lead.
+- [EU AI governance](evidence/EU_AI.md): identified an actual documentation inquiry channel and independent public-transparency research. Neither supplies an observed downstream request/refusal/decision chain. Code opposition is not proof of noncompliance.
+- [Nordic / High North](evidence/NORDIC_HIGH_NORTH.md): separated Arctic trials, Nordic Warden warning sharing and the Eagle S ship/shore information dispute. The August 2026 appellate decision strengthens the public institutional record, but its treatment of allegations does not establish intentional deception, Russian direction or a warning-system effect.
+- [Additional EU case: DRI/X](evidence/EU_DSA_RESEARCH_ACCESS.md): found repeated data-access litigation, an adverse urgency ruling, later relief and a participant report of an access grant. This provides the best current opportunity to distinguish legal entitlement, practical access and procedural timing.
 
 These are **INFERENCES about research feasibility**, supported by the linked evidence maps. None is an empirical verdict on the overall institution.
 
@@ -38,10 +38,10 @@ Within the Nordic family, Warden's warning-sharing and X-Arctic experimentation 
 
 **Question:** when does a legally enforceable right to public platform data become usable access in time for election-risk research?
 
-Reconstruct DRI's two request sequences, separate applicant delay from provider delay, and establish the first usable delivery date and field coverage in the Hungarian-election episode. Compare those dates with judicial relief and the distinct Commission proceeding. The [methods note](../methods/EMPIRICAL_INFERENCE.md) specifies rival predictions and the stop/narrow rule; the [search record](../evidence/SEARCH_LOG.md) states retrieval gaps.
+Reconstruct DRI's two request sequences, separate applicant delay from provider delay, and establish the first usable delivery date and field coverage in the Hungarian-election episode. Compare those dates with judicial relief and the distinct Commission proceeding. The [methods note](methods/EMPIRICAL_INFERENCE.md) specifies rival predictions and the stop/narrow rule; the [search record](evidence/SEARCH_LOG.md) states retrieval gaps.
 
 The present finding is limited: public records support studying how access disputes are processed, and a participant reports a later grant. They do not yet establish complete timely delivery, deliberate obstruction, an enforcement treatment effect or an improvement in election integrity. The next attack should produce a request-to-delivery ledger, not a simulation.
 
 ## Mathematical and simulation boundary
 
-[Mathematical dependencies](../MATHEMATICAL_DEPENDENCIES.md) remain unresolved and unchanged. No theorem, code pin, unpublished project citation or mathematical premise was introduced. No simulation was built. Any future dependency must identify its exact statement, assumptions, empirical mapping, evidence/formal status, dependent substantive claim and limitations. The public empirical argument must stand on its own evidence.
+[Mathematical dependencies](MATHEMATICAL_DEPENDENCIES.md) remain unresolved and unchanged. No theorem, code pin, unpublished project citation or mathematical premise was introduced. No simulation was built. Any future dependency must identify its exact statement, assumptions, empirical mapping, evidence/formal status, dependent substantive claim and limitations. The public empirical argument must stand on its own evidence.

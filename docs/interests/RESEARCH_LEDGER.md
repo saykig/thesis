@@ -14,6 +14,8 @@ The README previously centered this question:
 Sara set this aside as the repository's organizing question on 5 November
 because she wants to revisit several interests before choosing a topic. It
 remains a record of an earlier direction, not the paper's current question.
+The [September research experiment](../archive/2026-09-21-information-cooperation/README.md)
+holds the case comparison, evidence, and methods developed for it.
 
 ## 3 November framing (historical)
 
@@ -26,7 +28,7 @@ without improving the other.
 This developed the repository's earlier information/incentives/enforcement
 question and the coalition-interoperability strand of the
 17 August handwritten notes. It does not adopt a final case, replace the
-[case-selection assessment](CASE_SELECTION.md), or create a mathematical
+[case-selection assessment](../archive/2026-09-21-information-cooperation/CASE_SELECTION.md), or create a mathematical
 dependency. That assessment's DRI/X recommendation concerned documentary
 feasibility; the 3 November discussion asked a different substantive question
 about defence cooperation. Neither settled the author's case choice.
@@ -177,7 +179,7 @@ identify who had authority, who controlled a necessary information channel, what
 each actor sought, what could be withheld, available substitutes, the agreement
 sought, and what the public record can actually establish.
 
-The existing [Ukraine imagery-access map](../evidence/UKRAINE.md) offers a
+The existing [Ukraine imagery-access map](../archive/2026-09-21-information-cooperation/evidence/UKRAINE.md) offers a
 concrete bargaining episode, but concurrent weapons and diplomatic pressure
 prevent a clean estimate of the separate information effect. A PESCO or
 High North arrangement could address autonomy/participation if negotiation and

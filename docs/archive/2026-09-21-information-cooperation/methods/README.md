@@ -1,6 +1,8 @@
 # Methods
 
-Research design and operationalization for the application paper.
+Research design and operationalization considered for the
+[September 2026 experiment](../README.md). This is not the thesis's selected
+method.
 
 Use this directory to specify:
 

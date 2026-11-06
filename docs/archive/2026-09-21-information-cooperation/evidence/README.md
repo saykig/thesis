@@ -1,7 +1,8 @@
-# Evidence
+# Evidence from the September 2026 experiment
 
-Empirical evidence for the [directions under consideration](../../README.md#interests-so-far)
-belongs here. Existing case notes are dated research, not a selected paper topic.
+These sources and case maps were collected for the
+[connected-information experiment](../README.md). They do not form a general
+evidence base for every thesis interest.
 
 For each important source or factual claim, preserve:
 
@@ -12,4 +13,4 @@ For each important source or factual claim, preserve:
 - which hypothesis or part of the argument it informs.
 
 Do not treat a mathematical result, simulation, or model output as empirical
-evidence about Ukraine.
+evidence about any of the cases.

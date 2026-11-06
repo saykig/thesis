@@ -5,13 +5,18 @@
 This repository records the curiosity and topic-selection stage of a
 European-focused research paper. No research question, case, or model is
 currently selected. The user's 5 November clarification makes the dated
-interests in `README.md` the entry point; older recommendations are historical
-assessments, not an active mandate. Read `docs/paper/CASE_SELECTION.md`
-before changing a research question or treating a case as selected.
+interests in `README.md` the entry point. The September case selection,
+evidence, and methods are one archived experiment in
+`docs/archive/2026-09-21-information-cooperation/`; its recommendation is not
+an active mandate. Read that experiment's `CASE_SELECTION.md` when revisiting
+its question or using its evidence, not as a prerequisite for every new idea.
 
 Use it for empirical evidence, source assessment, hypotheses and rival explanations,
 application-specific models/simulations, research design and operationalization,
 and concise mathematical statements actually used by the paper.
+Keep evidence, methods, and case rankings from a particular research run inside
+that run's directory. Do not present them as a general foundation for other
+interests without checking their relevance.
 
 Do not use this repository for broad theorem development, mathematical provenance,
 formal-verification trails, or reusable mathematical research that is not part of
@@ -46,10 +51,11 @@ needed to understand the method; keep the full general discovery trail elsewhere
 
 ## Research curiosity ledger
 
-Maintain `docs/paper/RESEARCH_LEDGER.md` after substantive research-development
+Maintain `docs/interests/RESEARCH_LEDGER.md` after substantive research-development
 discussions. Record new curiosities with stable IDs and dates; refine existing
 entries instead of duplicating them. Distinguish the author's question, proposed
 mechanism, evidence status, rival explanation and next discriminating step.
+Keep the short dated interest list in `README.md` aligned with the ledger.
 Preserve parked directions and reasons for material changes without presenting
 brainstorming as findings. Link sources for factual claims. Keep entries concise;
 commit and push coherent updates. A ledger entry does not itself change the final

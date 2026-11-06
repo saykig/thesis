@@ -1,5 +1,9 @@
 # What this evidence can support
 
+**Archived protocol:** this note belongs to the
+[September 2026 research experiment](../README.md). Its proposed next steps
+were specific to that question.
+
 21 September 2026. A comparative scoping design and the protocol for the next empirical attack. This is a methods note, not a causal-effect estimate.
 
 ## Claim vocabulary
@@ -14,7 +18,7 @@ A legal rule describes an obligation. An announcement describes a claim or commi
 
 ## Comparative design
 
-The [four evidence maps](../paper/CASE_SELECTION.md) use a common set of questions, but their outcomes are not commensurable observations for a pooled regression. The selection is purposive and evidence-led. It favours a feasible MA process study, not a representative sample of Europe or a success-only sample. Include unsuccessful requests and adverse judgments.
+The [four evidence maps](../CASE_SELECTION.md) use a common set of questions, but their outcomes are not commensurable observations for a pooled regression. The selection is purposive and evidence-led. It favours a feasible MA process study, not a representative sample of Europe or a success-only sample. Include unsuccessful requests and adverse judgments.
 
 The Ukraine episode can expose access conditionality but bundles imagery, other intelligence, aid and diplomacy. GPAI has observable documentation architecture but lacks a retrieved request-to-decision chain. Nordic Warden lacks linked public alert/action records; Eagle S narrows that candidate to disputed information and jurisdiction, with intent unproven. DRI/X offers successive requests and court records, including failure and a reported later grant. These are reasons for research priority, not statistical findings.
 

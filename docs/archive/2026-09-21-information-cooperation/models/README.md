@@ -1,7 +1,7 @@
 # Models and simulations
 
-Application-specific models and simulations belong here only if a chosen paper
-direction needs them. No model has been selected.
+This is a placeholder retained from the [September 2026 experiment](../README.md).
+No model or simulation was selected for that run.
 
 A model should state:
 
