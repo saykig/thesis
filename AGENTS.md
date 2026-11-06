@@ -2,11 +2,12 @@
 
 ## Repository scope
 
-This repository is the application and proving ground for a European-focused
-research paper. The user's September 21 clarification authorizes comparing Ukraine,
-EU AI governance, and Nordic/High North security rather than fixing the case early.
-Ukraine remains a leading candidate, not a mandatory outcome of the comparison.
-Read `docs/paper/CASE_SELECTION.md` before changing the research question.
+This repository records the curiosity and topic-selection stage of a
+European-focused research paper. No research question, case, or model is
+currently selected. The user's 5 November clarification makes the dated
+interests in `README.md` the entry point; older recommendations are historical
+assessments, not an active mandate. Read `docs/paper/CASE_SELECTION.md`
+before changing a research question or treating a case as selected.
 
 Use it for empirical evidence, source assessment, hypotheses and rival explanations,
 application-specific models/simulations, research design and operationalization,

@@ -1,5 +1,9 @@
 # European case selection: evidence before model choice
 
+**Status as of 5 November 2026:** this is a dated comparison of research
+feasibility, not a current topic or case selection. The repository is in a
+[curiosity and topic-selection stage](../../README.md#interests-so-far).
+
 21 September 2026. Comparative empirical review; supersedes the initial scoping judgments while preserving the three starting candidates. **Recommendation: prioritise DRI/X researcher data access under the EU Digital Services Act for a bounded MA process study.** This is a research recommendation, not a finding that regulation produced compliance or that a strategic motive has been proved. The author's final case adoption remains open.
 
 ## What changed through evidence collection

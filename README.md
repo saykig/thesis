@@ -1,70 +1,35 @@
 # Cooperation & Enforcement
 
-This repository records the development of my MA major thesis: the research
-question, empirical evidence, application-specific models, methods, failed
-directions, and changes in argument as the paper develops.
+*A working name for my MA thesis exploration.*
 
-Current literature already has substantial work on cooperation, information
-design, signaling, incentives, enforcement, and strategic communication. I am not
-trying to rebuild those literatures; instead, I am interested in a place where
-they seem to remain somewhat fragmented. Consider the following question:
-**what happens to cooperation when different information sources and strategic
-actors are connected, and when institutions can respond by changing either who
-learns what or how strongly cooperation is enforced?**
+I am still choosing a topic. This repository helps me remember what has
+interested me, why each direction might matter, and where to find the research
+already done. I have not selected a final research question, European case, or
+model. Older files are dated snapshots of exploration, even when their wording
+sounds more decided.
 
-This is an abstract question, but the structure appears in real security
-institutions. In Ukraine, increasingly autonomous systems combine battlefield
-information, targeting and human decision authority, as seen in
-[Reuters reporting on Ukrainian drone units using AI guidance and targeting](https://www.reuters.com/business/aerospace-defense/ukrainian-drone-pilots-look-ai-battlefield-edge-2025-11-29/).
-Across NATO and the Arctic, uncrewed surveillance systems collect, fuse and
-distribute information across states before it reaches military decision-makers,
-including through
-[NATO's expansion of its intelligence, surveillance and reconnaissance fleet for the Arctic and High North](https://www.nato.int/en/news-and-events/articles/news/2026/07/07/nato-expands-its-intelligence-surveillance-and-reconnaissance-fleet-with-the-purchase-of-triton-aircraft).
-These systems raise a broader question: when information is distributed across
-actors and technologies, how does connecting it change the incentives and
-enforcement required for cooperation?
+## Interests so far
 
-## Current evolving research question
+The dates below mark when an interest was recorded or reviewed here, not
+necessarily when it first began. New interests can be added as short entries
+with a link to the fuller note or evidence.
 
-> How do connected information structures determine the incentives or enforcement required to sustain cooperation?
+- **5 November 2026 — Human–AI judgment in military command.** How might AI decision support change officers' decisions under pressure, and what would reliance on private providers mean for European defence? [Idea note](docs/paper/HUMAN_AI_MILITARY_DECISIONS.md) · [Related ledger question](docs/paper/RESEARCH_LEDGER.md#questions-to-retain).
+- **3 November 2026 — Cooperation among European allies.** Why do states with different interests act together, and when does sharing or controlling information help or hinder that cooperation? [Research curiosity ledger](docs/paper/RESEARCH_LEDGER.md).
+- **21 September 2026 — Ukraine and coalition information access.** A review of restricted access to commercial imagery raised questions about dependence and bargaining; it did not establish a separate military effect. [Ukraine evidence map](docs/evidence/UKRAINE.md).
+- **21 September 2026 — EU AI governance.** Could documentation and access rules give downstream users enough information to assess AI systems? [EU AI evidence map](docs/evidence/EU_AI.md).
+- **21 September 2026 — Nordic and High North security.** How do warning sharing, national authority, and disputed information affect cooperation? [Nordic/High North evidence map](docs/evidence/NORDIC_HIGH_NORTH.md).
+- **21 September 2026 — Researcher access to EU platform data.** When does a legal right to data become usable access in time for public-interest research? [Digital Services Act evidence map](docs/evidence/EU_DSA_RESEARCH_ACCESS.md).
+- **21 September 2026 — Connected information and enforcement.** An earlier broad question linked information networks, incentives, and cooperation. I have set it aside as the repo's organizing question, but kept it as part of the path here. [Earlier framing](docs/paper/RESEARCH_LEDGER.md#earlier-framing-21-september-2026).
 
-Ukraine remains a leading case, but I am also comparing EU AI governance and
-Nordic/High North security settings before settling the European application.
-The [case-selection note](docs/paper/CASE_SELECTION.md) records what the available
-evidence supports and what still needs to be established. No final case or
-mathematical dependency has been chosen.
+## Finding the work behind an interest
 
-## Broader programme and current proving ground
-
-This paper is one current proving ground for a broader research programme:
-building reusable mathematical interfaces for consequential decision-making under
-uncertainty, strategic interaction and changing information.
-
-“Universal” here does not mean one equation that predicts every outcome. It means
-that the mathematical pieces should be interoperable: uncertainty, dynamics,
-strategy, incentives, enforcement and other components should be reusable across
-different domains when their assumptions and interfaces match.
-
-For this repository, that broader mathematical programme is background rather than
-the object being documented in full. As the European-focused paper develops, I will
-bring in only the mathematical results actually needed to state, operationalize,
-or test its claims. The exact mathematical dependencies are still being worked out.
-
-*The current research question is a working draft and will evolve over time. The
-purpose of this repository is to preserve the development of the application paper
-without requiring the mathematical foundation to be settled in advance.*
-
-## Working structure
-
-The active paper workspace is in [docs/](docs/README.md), with separate areas for
-the manuscript, empirical evidence, methods, application-specific models and the
-mathematical dependencies that the paper eventually earns.
-
-## Research curiosities (dated)
-
-These short entries record questions that motivate the paper as they arise. The
-[research curiosity ledger](docs/paper/RESEARCH_LEDGER.md) keeps the fuller list
-and tracks how questions change. An entry does not select the final case.
-
-- **2026-11-03 — Defence cooperation and shared information.** When does sharing information help European allies act together, and when does control of it give one actor leverage? [Research ledger](docs/paper/RESEARCH_LEDGER.md) · [Case comparison](docs/paper/CASE_SELECTION.md).
-- **2026-11-05 — Human–AI judgment in military command.** How might AI decision support change officers' theater-level decisions, and what if European forces rely on private providers? [Idea note](docs/paper/HUMAN_AI_MILITARY_DECISIONS.md) · [Bode on human agency](https://www.cigionline.org/publications/human-machine-interaction-and-human-agency-in-the-military-domain/).
+The [research curiosity ledger](docs/paper/RESEARCH_LEDGER.md) keeps more
+questions, reading leads, and changes in direction. The
+[case-selection review](docs/paper/CASE_SELECTION.md) compares the evidence
+available on 21 September; its recommendation is a historical assessment,
+not a topic choice. [Evidence notes](docs/evidence/README.md) and
+[methods notes](docs/methods/README.md) can help test a direction once I want
+to narrow it. [Models](docs/models/README.md) and
+[mathematical dependencies](docs/MATHEMATICAL_DEPENDENCIES.md) become relevant
+only if a chosen paper actually needs them.

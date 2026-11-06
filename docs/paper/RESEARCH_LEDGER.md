@@ -1,22 +1,35 @@
 # Research curiosity ledger
 
-Updated 5 November 2026. Exploratory questions, not findings or a settled thesis.
+Updated 5 November 2026. These are exploratory questions and dated research
+snapshots, not findings or a settled thesis. Sara is in the curiosity and
+topic-selection stage; no question or case currently organizes the repository.
 
-## Working position
+## Earlier framing (21 September 2026)
 
-Sara's question is how defence institutions make cooperation possible among states
+The README previously centered this question:
+
+> How do connected information structures determine the incentives or
+> enforcement required to sustain cooperation?
+
+Sara set this aside as the repository's organizing question on 5 November
+because she wants to revisit several interests before choosing a topic. It
+remains a record of an earlier direction, not the paper's current question.
+
+## 3 November framing (historical)
+
+Sara explored how defence institutions make cooperation possible among states
 that face overlapping threats but retain different priorities, information and
-national authority. The promising distinction is between **making information
+national authority. One proposed distinction was between **making information
 usable** and **making cooperation acceptable**. An institution may improve one
 without improving the other.
 
-This develops the repository's existing information/incentives/enforcement
-question. It also develops the coalition-interoperability strand of the
+This developed the repository's earlier information/incentives/enforcement
+question and the coalition-interoperability strand of the
 17 August handwritten notes. It does not adopt a final case, replace the
 [case-selection assessment](CASE_SELECTION.md), or create a mathematical
 dependency. That assessment's DRI/X recommendation concerned documentary
-feasibility; the present discussion asks a different substantive question about
-defence cooperation. Neither settles the author's case choice.
+feasibility; the 3 November discussion asked a different substantive question
+about defence cooperation. Neither settled the author's case choice.
 
 Provenance: Sara's 3 November message; four uploaded notebook photographs;
 *Working Research Trajectory and Problem Statement.md*; *CEES Research Paper
@@ -28,7 +41,8 @@ later clarification that case selection remains open.
 
 Status: **develop** = priority for narrowing; **open** = unresolved;
 **supporting** = potentially useful explanation; **parked** = preserve outside
-the present paper's likely scope. These are research priorities, not truth labels.
+the paper's likely scope at the time. These labels record past assessments,
+not a current ranking or topic choice.
 
 | ID | Question | Distinction or test needed | Status |
 |---|---|---|---|
@@ -66,19 +80,21 @@ earlier, parked wording asked whether human, machine or hybrid systems improve
 coalition outcomes; that remains a possible downstream comparison, but it assumes
 more than the present evidence establishes. The [idea note](HUMAN_AI_MILITARY_DECISIONS.md)
 records the OODA, private-provider, European governance and dual-use questions.
-This change does not displace the current case-selection assessment.
+This interest does not select a case or supersede the dated case-selection
+assessment.
 
-## A question worth developing
+## A 3 November candidate question (historical)
 
 > Under what conditions does shared information facilitate joint defence
 > decisions among European allies, and when does control over that information
 > become a source of bargaining leverage?
 
-This is a candidate direction, not a final paper question. It contains two
-mechanisms; a 20-page paper should usually choose one primary outcome and treat
-the other as a rival or boundary condition.
+This was a candidate direction, not a final paper question. Sara has now set
+aside a single organizing question while exploring the interests in the
+[README timeline](../../README.md#interests-so-far). The candidate contained
+two mechanisms; a 20-page paper would need a narrower primary outcome.
 
-The most bounded version for an observed episode would be:
+A bounded version proposed at the time was:
 
 > How did control over a specified information channel shape the terms of a
 > particular coalition-support negotiation?
@@ -87,7 +103,7 @@ An alternative focused on integration would ask whether preserving national
 release authority made one specific sharing arrangement acceptable. The latter
 requires negotiations and participation evidence that have not yet been secured.
 
-## Candidate hypotheses and adverse evidence
+## Candidate hypotheses from the 3 November framing
 
 | Proposition | Mechanism | Observation that would weaken it |
 |---|---|---|
@@ -152,7 +168,9 @@ theorem about NATO consensus or the impossibility of diplomacy.
   This is participation evidence and an institutional programme account, not
   evidence of successful coordination or a complete account of Italian motives.
 
-## Next research step
+## Proposed next step from the 3 November framing
+
+The following was a possible research path, not the current work plan.
 
 Choose one decision episode after a short evidence audit. For each candidate,
 identify who had authority, who controlled a necessary information channel, what
@@ -173,7 +191,8 @@ assumptions; it would establish conditional model results, not real-world effect
 
 ## Update rule
 
-Add dated, stable question IDs for new substantive curiosities. Revise an existing
+Add brief dated interests to the [README](../../README.md#interests-so-far)
+and stable question IDs for substantive curiosities here. Revise an existing
 entry when a discussion refines it; retain the earlier position and the reason for
 a material change. Distinguish Sara's question from an assistant's proposed answer.
 Record active, supporting and parked directions without manufacturing a settled

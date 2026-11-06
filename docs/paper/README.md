@@ -1,13 +1,14 @@
 # Paper
 
-Working area for the Ukraine-focused application paper.
+Working area for possible paper directions. Start with the
+[dated interest timeline](../../README.md#interests-so-far) and the
+[research curiosity ledger](RESEARCH_LEDGER.md). No topic or case is selected.
 
-The final research question is still evolving. This directory should eventually
-contain:
+When a direction is chosen, this directory can contain:
 
 - the paper outline;
 - hypotheses and competing explanations;
-- the Ukraine case logic;
+- the chosen case logic;
 - argument structure;
 - manuscript drafts;
 - tables/figures used in the paper.

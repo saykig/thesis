@@ -1,6 +1,7 @@
 # Evidence
 
-Empirical evidence for the Ukraine-focused paper belongs here.
+Empirical evidence for the [directions under consideration](../../README.md#interests-so-far)
+belongs here. Existing case notes are dated research, not a selected paper topic.
 
 For each important source or factual claim, preserve:
 

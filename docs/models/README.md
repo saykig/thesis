@@ -1,6 +1,7 @@
 # Models and simulations
 
-Application-specific models and simulations used by the Ukraine paper belong here.
+Application-specific models and simulations belong here only if a chosen paper
+direction needs them. No model has been selected.
 
 A model should state:
 
