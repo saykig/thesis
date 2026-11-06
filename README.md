@@ -1,6 +1,6 @@
 # Cooperation & Enforcement
 
-*A working name for my MA thesis exploration.*
+*A repo for my MA thesis exploration.*
 
 I am still choosing a topic. This repository helps me remember what has
 interested me, why each direction might matter, and where to find the research
