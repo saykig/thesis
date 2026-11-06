@@ -1,4 +1,4 @@
-# Thesis Paper Research
+# Thesis Research
 
 *A repo for my MA thesis exploration.*
 
