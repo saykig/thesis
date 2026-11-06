@@ -1,12 +1,10 @@
-# Cooperation & Enforcement
+# Thesis Paper Research
 
 *A repo for my MA thesis exploration.*
 
 I am still choosing a topic. This repository helps me remember what has
-interested me, why each direction might matter, and where to find the research
-already done. I have not selected a final research question, European case, or
-model. Older files are dated snapshots of exploration, even when their wording
-sounds more decided.
+interested me and why each direction might matter. I have not selected a final research question or a
+model. Older files are dated snapshots of exploration, even when their wording sounds more decided.
 
 ## Interests so far
 
