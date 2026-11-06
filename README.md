@@ -7,7 +7,7 @@ interested me and why each direction might matter. I have not selected a final
 research question or a model. Older files are dated snapshots of exploration,
 even when their wording sounds more decided.
 
-The repository name, `cooperation-enforcement`, reflects one earlier question;
+The former repository name, `cooperation-enforcement`, reflected one earlier question;
 its case comparison and evidence are kept together in an archive.
 
 ## Interests so far

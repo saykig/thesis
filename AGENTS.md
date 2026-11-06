@@ -1,4 +1,4 @@
-# Cooperation & Enforcement — project instructions
+# Thesis Paper Research — project instructions
 
 ## Repository scope
 
