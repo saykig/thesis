@@ -7,6 +7,8 @@ records changes in direction.
 
 - [Human–AI interaction and military decisions](HUMAN_AI_MILITARY_DECISIONS.md)
   — an interest recorded on 5 November 2026.
+- [High North and Arctic cooperation](HIGH_NORTH_ARCTIC.md) — a curiosity
+  visible in the 3 November ledger and revisited on 5 November.
 - [Research curiosity ledger](RESEARCH_LEDGER.md) — alliance cooperation,
   information, and other questions recorded and refined over time.
 
