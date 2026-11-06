@@ -14,7 +14,9 @@ settings: Ukraine's access to commercial imagery, EU AI documentation,
 Nordic/High North warning and authority arrangements, and EU Digital Services
 Act researcher access to platform data. These were candidate cases *for this
 question*. Their presence here does not make them four independently chosen
-thesis topics.
+thesis topics. The [High North and Arctic interest](../../interests/HIGH_NORTH_ARCTIC.md)
+also exists outside this run; the evidence gathered here does not define
+every possible question about that area.
 
 ## What the run produced
 

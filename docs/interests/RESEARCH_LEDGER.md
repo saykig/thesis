@@ -39,6 +39,43 @@ Project Instruction.md*; current repository instructions and case/methods notes.
 The older uploaded preference for Ukraine must be read alongside the repository's
 later clarification that case selection remains open.
 
+## Browsing the questions
+
+The 3 November discussion covered several possible directions. These headings
+are an index to the question IDs below, not a claim that the directions depend
+on one research question. Q22 was refined on 5 November.
+
+### Alliances and different interests
+
+Q01–Q05 and Q11–Q12 ask about membership, common threats, burden sharing,
+enlargement, regional stakes, and national distinctiveness.
+
+### High North and Arctic cooperation
+
+Q08, Q11, and Q20 touch information release, unequal regional stakes, and
+whether a mechanism travels across cases. The [High North curiosity note](HIGH_NORTH_ARCTIC.md)
+separates this interest from the earlier experiment's evidence map.
+
+### Information sharing and dependence
+
+Q06–Q09 and Q19 concern shared foundations, information rights, disagreement,
+network dependence, and information science.
+
+### Geopolitics and material dependence
+
+Q10 and Q13–Q16 concern links to trade and finance, different perceptions of
+Russia and China, uncertainty about US support, and technology bottlenecks.
+
+### Human judgment and diplomacy
+
+Q05, Q15, Q17–Q18, and Q21–Q22 concern identity, leaders' choices, informal
+diplomacy, neuroeconomics, decision speed, and human–AI interaction.
+
+### Scope and possible contribution
+
+Q20 and Q23–Q24 ask when insights transfer across cases, how conditional a
+model must be, and where a paper might contribute to existing research.
+
 ## Questions to retain
 
 Status: **develop** = priority for narrowing; **open** = unresolved;
