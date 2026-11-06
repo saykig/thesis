@@ -6,7 +6,7 @@
 
 > Are human–AI interactions challenging theater-level decisions made by military officers?
 
-Rereading the “About me” page on her personal site renewed Sara's interest in why she studies this area. A Google AI Overview screenshot shared in the 5 November chat sparked the OODA and Maven questions below. Its summary is a research lead, not evidence for the paper.
+Rereading the “About me” page on her personal site renewed Sara's interest in why she studies this area. The [Google AI Overview screenshot she shared on 5 November](assets/2026-11-05-google-ai-overview.png) sparked the OODA and Maven questions below. It is saved here as a record of what prompted the idea; its summary is a research lead, not evidence for the paper.
 
 ## What to investigate
 
