@@ -1,6 +1,6 @@
 # Research curiosity ledger
 
-Updated 3 November 2026. Exploratory questions, not findings or a settled thesis.
+Updated 5 November 2026. Exploratory questions, not findings or a settled thesis.
 
 ## Working position
 
@@ -53,9 +53,20 @@ the present paper's likely scope. These are research priorities, not truth label
 | Q19 | What can information science contribute beyond information theory? | Classification, provenance, knowledge organization, access rules and shared meanings are possible institutional mechanisms. Identify a documented release or interpretation problem before prescribing an ontology or tool. | Supporting |
 | Q20 | Can findings transfer across Ukraine, NATO, EU defence and the High North? | Transfer a mechanism only when actors, actions, information rights and incentives match. Similar vocabulary or a reusable graph is insufficient. The Baltic is not interchangeable with the Arctic. | Open |
 | Q21 | Does decision speed improve decision quality across repeated cycles? | Preserve the original conflict–decision–implementation–feedback question. Separate agreement time from implementation time, quality, losses and resource use. Faster agreement is not necessarily better defence. | Open |
-| Q22 | Do human, machine or hybrid decision systems improve coalition outcomes? | Preserve the earlier comparison, but first establish the actual bottleneck. More processing capacity cannot by assumption remove sovereignty costs, strategic withholding or preference conflict. | Parked |
+| Q22 | How do AI decision-support systems change officers' judgment in theater-level decisions? | Test whether speed, trust in recommendations and provider control alter meaningful human deliberation or accountability. Link any coalition claim to an observed European decision episode; see the [5 November idea note](HUMAN_AI_MILITARY_DECISIONS.md). | Develop |
 | Q23 | Is there a universally dominant model for cooperation? | Seek conditional, reusable concepts and explicit assumptions. Do not claim one institution, topology or algorithm dominates all objectives, threats and distributions of power. | Open |
 | Q24 | Where might this paper add something to existing IR? | A possible contribution concerns when information arrangements reduce coordination costs versus redistribute bargaining leverage. Establish what existing literature already explains before claiming novelty. | Develop |
+
+## 5 November 2026: a motivating human–AI question
+
+After rereading the “About me” page on her personal site, Sara identified
+human–AI interaction in military command as a particularly motivating direction.
+Q22 now asks about officers' judgment before claiming a coalition outcome. Its
+earlier, parked wording asked whether human, machine or hybrid systems improve
+coalition outcomes; that remains a possible downstream comparison, but it assumes
+more than the present evidence establishes. The [idea note](HUMAN_AI_MILITARY_DECISIONS.md)
+records the OODA, private-provider, European governance and dual-use questions.
+This change does not displace the current case-selection assessment.
 
 ## A question worth developing
 

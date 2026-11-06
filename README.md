@@ -59,3 +59,12 @@ without requiring the mathematical foundation to be settled in advance.*
 The active paper workspace is in [docs/](docs/README.md), with separate areas for
 the manuscript, empirical evidence, methods, application-specific models and the
 mathematical dependencies that the paper eventually earns.
+
+## Research curiosities (dated)
+
+These short entries record questions that motivate the paper as they arise. The
+[research curiosity ledger](docs/paper/RESEARCH_LEDGER.md) keeps the fuller list
+and tracks how questions change. An entry does not select the final case.
+
+- **2026-11-03 — Defence cooperation and shared information.** When does sharing information help European allies act together, and when does control of it give one actor leverage? [Research ledger](docs/paper/RESEARCH_LEDGER.md) · [Case comparison](docs/paper/CASE_SELECTION.md).
+- **2026-11-05 — Human–AI judgment in military command.** How might AI decision support change officers' theater-level decisions, and what if European forces rely on private providers? [Idea note](docs/paper/HUMAN_AI_MILITARY_DECISIONS.md) · [Bode on human agency](https://www.cigionline.org/publications/human-machine-interaction-and-human-agency-in-the-military-domain/).
