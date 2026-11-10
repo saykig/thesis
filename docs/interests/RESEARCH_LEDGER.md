@@ -1,6 +1,6 @@
 # Research curiosity ledger
 
-Updated 5 November 2026. These are exploratory questions and dated research
+Updated 10 November 2026. These are exploratory questions and dated research
 snapshots, not findings or a settled thesis. Sara is in the curiosity and
 topic-selection stage; no question or case currently organizes the repository.
 
@@ -68,8 +68,9 @@ Russia and China, uncertainty about US support, and technology bottlenecks.
 
 ### Human judgment and diplomacy
 
-Q05, Q15, Q17–Q18, and Q21–Q22 concern identity, leaders' choices, informal
-diplomacy, neuroeconomics, decision speed, and human–AI interaction.
+Q05, Q15, Q17–Q18, Q21–Q22 and Q25–Q26 concern identity, leaders' choices,
+informal diplomacy, neuroeconomics, decision speed, human–AI interaction and
+deterrence.
 
 ### Scope and possible contribution
 
@@ -106,9 +107,11 @@ not a current ranking or topic choice.
 | Q19 | What can information science contribute beyond information theory? | Classification, provenance, knowledge organization, access rules and shared meanings are possible institutional mechanisms. Identify a documented release or interpretation problem before prescribing an ontology or tool. | Supporting |
 | Q20 | Can findings transfer across Ukraine, NATO, EU defence and the High North? | Transfer a mechanism only when actors, actions, information rights and incentives match. Similar vocabulary or a reusable graph is insufficient. The Baltic is not interchangeable with the Arctic. | Open |
 | Q21 | Does decision speed improve decision quality across repeated cycles? | Preserve the original conflict–decision–implementation–feedback question. Separate agreement time from implementation time, quality, losses and resource use. Faster agreement is not necessarily better defence. | Open |
-| Q22 | How do AI decision-support systems change officers' judgment in theater-level decisions? | Test whether speed, trust in recommendations and provider control alter meaningful human deliberation or accountability. Link any coalition claim to an observed European decision episode; see the [5 November idea note](HUMAN_AI_MILITARY_DECISIONS.md). | Develop |
+| Q22 | How do AI decision-support systems change officers' judgment in theater-level decisions? | Test whether speed, trust in recommendations and provider control alter meaningful human deliberation or accountability. Link any coalition claim to an observed European decision episode; see the [idea note](AI%20military%20decisions/README.md). | Develop |
 | Q23 | Is there a universally dominant model for cooperation? | Seek conditional, reusable concepts and explicit assumptions. Do not claim one institution, topology or algorithm dominates all objectives, threats and distributions of power. | Open |
 | Q24 | Where might this paper add something to existing IR? | A possible contribution concerns when information arrangements reduce coordination costs versus redistribute bargaining leverage. Establish what existing literature already explains before claiming novelty. | Develop |
+| Q25 | Which advances shorten the OODA cycle or targeting chain? | Separate sensor/network latency, analytic support, authority and weapon action. Measure actual workflow rather than treating all acceleration as AI; see the [10 November ledger](AI%20military%20decisions/RESEARCH_LEDGER.md#10-november-2026--what-shortens-decision-and-targeting-cycles). | Open |
+| Q26 | When would faster AI-enabled decisions change deterrence or crisis stability? | Specify dyad, system function, observed capability, adversary beliefs and response authority. Test signaling, accidental escalation, entanglement or denial against safeguards and established theory; see the [10 November ledger](AI%20military%20decisions/RESEARCH_LEDGER.md#10-november-2026--implications-for-deterrence). | Open |
 
 ## 5 November 2026: a motivating human–AI question
 
@@ -117,10 +120,21 @@ human–AI interaction in military command as a particularly motivating directio
 Q22 now asks about officers' judgment before claiming a coalition outcome. Its
 earlier, parked wording asked whether human, machine or hybrid systems improve
 coalition outcomes; that remains a possible downstream comparison, but it assumes
-more than the present evidence establishes. The [idea note](HUMAN_AI_MILITARY_DECISIONS.md)
-records the OODA, private-provider, European governance and dual-use questions.
+more than the present evidence establishes. The [idea note](AI%20military%20decisions/README.md) records the enduring questions;
+its [dated ledger](AI%20military%20decisions/RESEARCH_LEDGER.md) holds the sources,
+OODA, private-provider, European governance and dual-use research leads.
 This interest does not select a case or supersede the dated case-selection
 assessment.
+
+## 10 November 2026: decision speed and deterrence
+
+Q25 and Q26 extend Q22 without making either its necessary consequence. Sara
+asked what instruments shorten the OODA or targeting cycle, then what that
+might change about deterrence theory. A supplied Gemini answer listed technical
+capabilities and dramatic strategic effects. The [AI military decisions ledger](AI%20military%20decisions/RESEARCH_LEDGER.md)
+records these as unverified leads and conditional mechanisms, with rivals and
+next tests. Deterrence and escalation require distinct outcomes; no case,
+framework or theory revision is selected.
 
 ## A 3 November candidate question (historical)
 
