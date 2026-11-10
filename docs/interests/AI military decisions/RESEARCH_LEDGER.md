@@ -32,7 +32,7 @@ Rereading her personal site's “About me” page renewed this interest; a Googl
 
 **Edited for clarity:** Which advances in military systems shorten the OODA cycle or the targeting “kill chain,” and at which steps do they change the role of human judgment?
 
-### Google Gemini answer (verbatim, supplied by Sara)
+### Answer:
 
 Modern military advancements are rapidly collapsing the traditional **OODA Loop** (Observe, Orient, Decide, Act) and closing the "kill chain" (traditionally framed as Find, Fix, Track, Target, Engage, Assess). Because modern threats like hypersonic missiles and coordinated drone swarms operate at speeds that overwhelm human cognitive capacity, the military is transitioning from manual, sequential loops to **automated, machine-speed "kill webs"**. [[1](https://www.researchgate.net/publication/371220126_Mapping_Artificial_Intelligence_to_the_Naval_Tactical_Kill_Chain), [2](https://timesofindia.indiatimes.com/defence/news/kill-webs-drones-and-less-guesswork-how-indias-armed-forces-are-using-ai-in-combat/articleshow/134543080.cms), [3](https://breakingdefense.com/2025/04/decision-making-at-the-speed-of-relevance-modernizing-the-ooda-loop-for-todays-threats/)]
 
@@ -83,7 +83,7 @@ Would you like to explore a specific aspect of this acceleration? For instance, 
 
 **Edited for clarity:** If AI-enabled military systems shorten the time between detection and action, under what conditions would that change deterrence and crisis stability between states, and where would existing deterrence theory still explain the outcome?
 
-### Google Gemini answer (verbatim, supplied by Sara)
+### Answer:
 
 The collapse of the OODA loop into machine-speed execution presents a profound challenge to traditional **International Relations (IR) frameworks, specifically Deterrence Theory**.
 
@@ -147,4 +147,4 @@ To explore how this impacts global stability further, would you like to look int
 
 ## Research handling
 
-The two Gemini answers above are preserved as supplied research material, including their claims and links. Their sources and factual assertions have not been independently verified for this ledger. The questions remain open; no theory revision or case is selected. A useful next step is to choose one documented system and decision episode, measure which part of the process changes, and distinguish its observed operation from claims about strategic effects. The [broader ledger](../RESEARCH_LEDGER.md) tracks Q22 and Q25–Q26.
+The two answers above are preserved as supplied research material, including their claims and links. Their sources and factual assertions have not been independently verified for this ledger. The questions remain open; no theory revision or case is selected. A useful next step is to choose one documented system and decision episode, measure which part of the process changes, and distinguish its observed operation from claims about strategic effects. The [broader ledger](../RESEARCH_LEDGER.md) tracks Q22 and Q25–Q26.
