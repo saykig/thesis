@@ -2,8 +2,8 @@
 
 *A repo for my MA thesis exploration.*
 
-I am still choosing a topic. This repository helps me remember what has
-interested me and why each direction might matter. I have not selected a final
+This repository helps me remember what has
+interested me and why each direction might matter, and I have not selected a final
 research question or a model. Older files are dated snapshots of exploration,
 even when their wording sounds more decided.
 
