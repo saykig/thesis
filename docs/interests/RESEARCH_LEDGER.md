@@ -1,6 +1,6 @@
 # Research curiosity ledger
 
-Updated 10 November 2026. These are exploratory questions and dated research
+Updated 24 November 2026. These are exploratory questions and dated research
 snapshots, not findings or a settled thesis. Sara is in the curiosity and
 topic-selection stage; no question or case currently organizes the repository.
 
@@ -112,6 +112,9 @@ not a current ranking or topic choice.
 | Q24 | Where might this paper add something to existing IR? | A possible contribution concerns when information arrangements reduce coordination costs versus redistribute bargaining leverage. Establish what existing literature already explains before claiming novelty. | Develop |
 | Q25 | Which advances shorten the OODA cycle or targeting chain? | Separate sensor/network latency, analytic support, authority and weapon action. Measure actual workflow rather than treating all acceleration as AI; see the [10 November ledger](AI%20military%20decisions/RESEARCH_LEDGER.md#10-november-2026--what-shortens-decision-and-targeting-cycles). | Open |
 | Q26 | When would faster AI-enabled decisions change deterrence or crisis stability? | Specify dyad, system function, observed capability, adversary beliefs and response authority. Test signaling, accidental escalation, entanglement or denial against safeguards and established theory; see the [10 November ledger](AI%20military%20decisions/RESEARCH_LEDGER.md#10-november-2026--implications-for-deterrence). | Open |
+| Q27 | When do additional independent actors complicate AI-enabled cyber crisis management? | Separate actor count from software-instance count, attack volume and attribution quality; compare with defensive and communication gains. See the [24 November note](AI_AGENTS_CRISIS_STABILITY.md). | Open |
+| Q28 | Can delegated cyber action outrun attribution and political intervention? | Refines Q26 through third-party ambiguity, response authority and recall capacity. Specify a European episode and an escalation threshold; AI involvement requires evidence. | Open |
+| Q29 | Do frequent operations erode deterrence, or coexist with restraint at higher thresholds? | Distinguish warning, actual action, standing deterrent expectations and incident frequency; define the conduct and threshold supposedly being deterred. | Open |
 
 ## 5 November 2026: a motivating human–AI question
 
@@ -135,6 +138,25 @@ capabilities and dramatic strategic effects. The [AI military decisions ledger](
 records these as unverified leads and conditional mechanisms, with rivals and
 next tests. Deterrence and escalation require distinct outcomes; no case,
 framework or theory revision is selected.
+
+## 24 November 2026: AI agents and multiplayer crisis stability
+
+Q27–Q29 record Sara's extension of her earlier nuclear-crisis presentation to
+AI-enabled cyber operations, state and nonstate actors, uncertain attribution
+and frequent action. Sara corrected the motivating source to **Bracken**;
+Acton concerns the slides' separate entanglement discussion. Her interest has
+moved away from nuclear weapons; the nuclear material supplies intellectual
+provenance, not a required dependent variable.
+
+The [new interest note](AI_AGENTS_CRISIS_STABILITY.md) preserves her intuition,
+corrects universal actor-count and deterrence assumptions, focuses on cyber
+operations, and supplies an annotated reading ledger.
+The proposed mechanism is conditional: independent actors, delegated authority
+and uncertain responsibility might narrow opportunities to interrupt escalation.
+This remains unestablished; better defence and communication are rivals.
+Next step: audit one European/Eurasian episode for actual AI involvement,
+decision authority, attribution timing and an observable escalation threshold.
+No case, model or final question is selected.
 
 ## A 3 November candidate question (historical)
 
