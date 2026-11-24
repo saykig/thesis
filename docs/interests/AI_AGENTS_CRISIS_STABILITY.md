@@ -8,7 +8,7 @@ Sara returned to her POL405 presentation on nuclear crisis instability to ask a 
 
 Russia and North Korea were suggested as possible actors, not selected cases. This is a faithful paraphrase of the cyber-focused interest in the 24 November discussion, not an empirical finding.
 
-**Source:** [Sara's Canva presentation, “POL405 Seminar Presentation”](https://www.canva.com/design/DAGUCzBgsWI/62jMjQ8VnF9XHN9sBzLU-w/edit), read 24 November 2026. The multiplayer discussion appears on slides 12–13. The slides attribute it to **Paul Bracken**; Sara explicitly corrected her initial attribution to Acton. Acton appears elsewhere for entangled command-and-control systems. The slides contain no complete bibliography, so the exact assigned Bracken text remains unconfirmed. The readings below are independently identified leads, not a reconstructed course bibliography.
+**Source:** [Sara's Canva presentation, “POL405 Seminar Presentation”](https://www.canva.com/design/DAGUCzBgsWI/62jMjQ8VnF9XHN9sBzLU-w/edit). The slides attribute it to **Paul Bracken**. The slides contain no complete bibliography, so the exact assigned Bracken text remains unconfirmed. The readings below are independently identified leads, not a reconstructed course bibliography.
 
 ## Corrections and boundaries
 
