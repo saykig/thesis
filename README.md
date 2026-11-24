@@ -9,11 +9,7 @@ even when their wording sounds more decided.
 
 ## Interests so far
 
-Dates mark when an interest was recorded here, not necessarily when it began.
-Each link leads to the fuller thinking, so I can return to it when choosing
-what fits. These are overlapping areas of curiosity, not parts of one
-required research question.
-
+- **24 November 2026 — AI agents and multiplayer crisis stability.** When do independent actors, uncertain responsibility and delegated cyber operations complicate deterrence or escalation control? Extends a Bracken-inspired nuclear intuition into a new cyber interest, with corrections and readings. [Interest and reading ledger](docs/interests/AI_AGENTS_CRISIS_STABILITY.md).
 - **5 November 2026 — Human–AI judgment in military command.** How might AI decision support change officers' decisions under pressure, and what would reliance on private providers mean for European defence? [Idea note](docs/interests/AI%20military%20decisions/README.md).
 - **10 November 2026 — Decision speed and deterrence.** Which instruments shorten military decision and targeting cycles, and when might that affect signaling or escalation? [Research ledger](docs/interests/AI%20military%20decisions/RESEARCH_LEDGER.md).
 - **3 November 2026; revisited 5 November — High North and Arctic cooperation.** How might states with different regional stakes share warnings and keep national decision authority? [Curiosity note](docs/interests/HIGH_NORTH_ARCTIC.md) · [Earlier evidence map](docs/archive/2026-09-21-information-cooperation/evidence/NORDIC_HIGH_NORTH.md).

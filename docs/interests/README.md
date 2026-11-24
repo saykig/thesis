@@ -5,6 +5,7 @@ open. The [dated interest list](../../README.md#interests-so-far) gives a short
 overview; the [curiosity ledger](RESEARCH_LEDGER.md) keeps more questions and
 records changes in direction.
 
+- [AI agents and multiplayer crisis stability](AI_AGENTS_CRISIS_STABILITY.md) — recorded 24 November 2026; Bracken-inspired questions about actor proliferation, attribution, delegated cyber action and deterrence, with a reading ledger.
 - [AI military decisions](AI%20military%20decisions/README.md) — human judgment recorded 5 November 2026; decision speed and deterrence questions added 10 November. [Dated research ledger](AI%20military%20decisions/RESEARCH_LEDGER.md).
 - [High North and Arctic cooperation](HIGH_NORTH_ARCTIC.md) — a curiosity
   visible in the 3 November ledger and revisited on 5 November.
